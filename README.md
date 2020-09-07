@@ -18,7 +18,7 @@ Try Video Meeting here [video.sebastienbiollo.com](https://video.sebastienbiollo
 - Unlimited users
 - Messaging chat and video streaming in real-time
 - Screen sharing to present documents, slides, and more
-- Everyting is peer-to-peer thanks to webrtc
+- Everyting is peer-to-peer thanks to webrtc 123
 
 
 ### Local setup
